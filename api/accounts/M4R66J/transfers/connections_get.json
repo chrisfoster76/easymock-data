@@ -1,0 +1,14 @@
+[
+	{
+		"FundingEmployerAccountId" : 1,
+	   	"FundingEmployerAccountName" : "Fresh Meat and Veg Limited",
+	   	"FundingEmployerHashedAccountId" : "HASHED_ID_1",
+	   	"TransferConnectionId" : 11
+	},
+	{
+		"FundingEmployerAccountId" : 2,
+	   	"FundingEmployerAccountName" : "Artisan Bread Co Ltd",
+	   	"FundingEmployerHashedAccountId" : "HASHED_ID_2",
+	   	"TransferConnectionId" : 22
+	}
+]

@@ -1,0 +1,10 @@
+[
+	{
+		"UserRef": "ab326e8c-b5f3-4597-8599-57de5032f4de",
+	    "Name": "Chris Foster",
+	    "Email": "chrisfoster186@googlemail.com",
+	    "Role": "Owner",
+	    "CanReceiveNotifications": true,
+	    "Status": "Accepted"
+	}
+]
