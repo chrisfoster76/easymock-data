@@ -1,0 +1,40 @@
+[
+    {
+        "Id": "1",
+        "Uri": "http://das-prd-apprenticeshipinfoservice.cloudapp.net/standards/1",
+        "Title": "Example Standard 1",
+        "TypicalLength": {
+            "From": 24,
+            "To": 24,
+            "Unit": "m"
+        },
+        "Duration": 24,
+        "MaxFunding": 5000,
+        "Level": 4,
+        "IsPublished": true,
+        "Ssa1": 6,
+        "Ssa2": 6.1,
+        "EffectiveFrom": "2014-08-01T00:00:00",
+        "IsActiveStandard": true,
+        "StandardSectorCode": 1
+    },
+        {
+        "Id": "2",
+        "Uri": "http://das-prd-apprenticeshipinfoservice.cloudapp.net/standards/1",
+        "Title": "Example Standard 2",
+        "TypicalLength": {
+            "From": 24,
+            "To": 24,
+            "Unit": "m"
+        },
+        "Duration": 24,
+        "MaxFunding": 10000,
+        "Level": 4,
+        "IsPublished": true,
+        "Ssa1": 6,
+        "Ssa2": 6.1,
+        "EffectiveFrom": "2014-08-01T00:00:00",
+        "IsActiveStandard": true,
+        "StandardSectorCode": 2
+    }
+]

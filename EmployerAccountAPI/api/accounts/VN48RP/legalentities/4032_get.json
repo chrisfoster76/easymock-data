@@ -4,13 +4,26 @@
   "Address": "36  Church Drive, Kingsbury, London, NW9 8DR",
   "Source": "Companies House",
   "Status": null,
-  "Name": "BUTCHER AND CHEESE MAKER LTD (Stub)",
-  "Code": "10412362",
+  "Name": "SOME OTHER ORGANISATION (Stub)",
+  "Code": "10412363",
   "DateOfInception": "2016-10-05T00:00:00",
   "PublicSectorDataSource": "",
   "Sector": "",
-  "AgreementStatus": 1,
-  "AgreementSignedByName": null,
-  "AgreementSignedDate": null,
-  "SourceNumeric": 1
+  "Agreements": [
+      {
+        "TemplateVersionNumber": 1,
+        "Status": 2,
+        "AgreementSignedByName": null,
+        "AgreementSignedDate": null,
+        "SourceNumeric": 1
+      },
+      {
+        "TemplateVersionNumber": 2,
+        "Status": 1,
+        "AgreementSignedByName": null,
+        "AgreementSignedDate": null,
+        "SourceNumeric": 1
+      }
+    ]
 }
+

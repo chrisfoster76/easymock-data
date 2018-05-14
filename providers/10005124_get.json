@@ -1,0 +1,32 @@
+{
+    "Ukprn": 10005124,
+    "IsHigherEducationInstitute": false,
+    "Hei": false,
+    "ProviderName": "PLUMPTON COLLEGE",
+    "IsEmployerProvider": false,
+    "Uri": "http://das-prd-apprenticeshipinfoservice.cloudapp.net/providers/10005124",
+    "Phone": "01273 890454",
+    "Email": "jeremy.kerswell@plumpton.ac.uk",
+    "NationalProvider": false,
+    "Website": "www.plumpton.ac.uk",
+    "EmployerSatisfaction": 82,
+    "LearnerSatisfaction": 0,
+    "Addresses": [
+      {
+        "ContactType": "LEGAL",
+        "Street": "Ditchling Road",
+        "Town": "Lewes",
+        "PostCode": "BN7 3AE"
+      },
+      {
+        "ContactType": "PRIMARY",
+        "Street": "Ditchling Road",
+        "Town": "Lewes",
+        "PostCode": "BN7 3AE"
+      }
+    ],
+    "MarketingInfo": "Plumpton College is a specialist land-based College offering outstanding indoor and outdoor facilities at our main 800-hectare site plus our other superb Out Centres. You'll be able to develop your skills and knowledge at our inspirational sites. Offering a variety of Apprenticeships, Further Education, Higher Education, Short Courses and Bespoke Training.  \r\n\r\nOur absolute focus at Plumpton is helping your apprentice to succeed and achieve a career. Our dedicated expert teachers and support staff will help to improve the skills and knowledge of your apprentice to help develop them in their current role.  \r\n\r\nWe offer land based apprenticeships covering the South East, Kent and Surrey area.",
+    "HasParentCompanyGuarantee": false,
+    "IsNew": false,
+    "IsLevyPayerOnly": true
+  }
