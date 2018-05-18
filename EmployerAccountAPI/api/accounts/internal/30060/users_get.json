@@ -1,0 +1,10 @@
+[
+	{
+		"UserRef": "Ref123",
+		"Name": "User Name",
+		"Email": "chrisfoster186@googlemail.com",
+		"CanReceiveNotifications": true,
+		"Status": "Accepted",
+		"Role": "Owner"
+	}
+]

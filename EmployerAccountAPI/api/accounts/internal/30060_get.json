@@ -1,0 +1,10 @@
+{
+	"AccountId": 30060,
+	"HashedAccountId": "VNR6P9",
+	  "LegalEntities": [
+	    {
+	      "Id": "1234",
+	      "Href": "/api/accounts/VNR6P9/legalentities/1234"
+	    }
+	  ]
+}

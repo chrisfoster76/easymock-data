@@ -5,7 +5,7 @@
   "Source": "Companies House",
   "Status": null,
   "Name": "SOME OTHER ORGANISATION (Stub)",
-  "Code": "10412363",
+  "Code": "06344082",
   "DateOfInception": "2016-10-05T00:00:00",
   "PublicSectorDataSource": "",
   "Sector": "",
@@ -24,6 +24,10 @@
         "AgreementSignedDate": null,
         "SourceNumeric": 1
       }
-    ]
+    ],
+  "AgreementStatus": 2,
+  "AgreementSignedByName": "Chris Foster",
+  "AgreementSignedDate": "2017-11-07T11:20:52.02",
+  "SourceNumeric": 1
 }
 
