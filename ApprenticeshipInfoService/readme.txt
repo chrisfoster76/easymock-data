@@ -1,1 +1,0 @@
-Files should be moved into root of easymock data as client requires they be located there.

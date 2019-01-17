@@ -1,10 +1,10 @@
 {
-    "Ukprn": 10005124,
+    "Ukprn": 12345678,
     "IsHigherEducationInstitute": false,
     "Hei": false,
-    "ProviderName": "PLUMPTON COLLEGE (Stub)",
+    "ProviderName": "Learn Awesome (Stub)",
     "IsEmployerProvider": false,
-    "Uri": "http://das-prd-apprenticeshipinfoservice.cloudapp.net/providers/10005124",
+    "Uri": "http://das-prd-apprenticeshipinfoservice.cloudapp.net/providers/12345678",
     "Phone": "01273 890454",
     "Email": "jeremy.kerswell@plumpton.ac.uk",
     "NationalProvider": false,
